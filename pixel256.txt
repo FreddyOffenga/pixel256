@@ -1,0 +1,6 @@
+title    : Pixel 256
+author   : F#READY
+playform : Atari 8-bit
+released : Silly Venture 2k18
+compo    : 256 bytes
+playtime : 60 seconds or endless
